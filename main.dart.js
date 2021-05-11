@@ -68301,7 +68301,7 @@ $S:443}
 G.m9.prototype={
 af:function(){var s,r,q,p,o,n,m,l,k=null,j="unplugged",i=t.Xk,h=new B.a_X(),g=H.bW(J.au(U.jz(j).gkN().c,"token"))
 if(g==null)g=""
-s=P.lK("https://192.168.30.26:5001/")
+s=P.lK("https://travel.isnot.dev")
 r=t.bD
 q=V.ag6(P.aw(["Authorization","Bearer "+g],r,r))
 h.a=new D.a_Y(new E.vG(s),q,P.hz(new H.hr(t.vR),t.Y4))
@@ -68655,7 +68655,7 @@ Z.VH.prototype={
 $1:function(a){return new K.mE(a,null)},
 $S:456}
 K.nf.prototype={
-af:function(){var s=null,r=A.ea(s,s,s,s,s,s,s,s,"Montserrat",s,s,20,s,s,s,s,!0,s,s,s,s,s,s),q=P.lK("https://192.168.30.26:5001/"),p=t.bD
+af:function(){var s=null,r=A.ea(s,s,s,s,s,s,s,s,"Montserrat",s,s,20,s,s,s,s,!0,s,s,s,s,s,s),q=P.lK("https://travel.isnot.dev"),p=t.bD
 p=V.ag6(P.aw(["Authorization","Bearer "],p,p))
 return new K.MW(r,new N.b2(s,t.Xu),new O.a5v(new D.a5w(new E.vG(q),p,P.hz(new H.hr(t.vR),t.Y4))),U.jz("unplugged"),D.kb(s),D.kb(s),s,C.k)}}
 K.MW.prototype={
@@ -68745,7 +68745,7 @@ return L.bf("users",s,s,s,s,s,s,s)}}
 B.EV.prototype={
 Fw:function(){var s,r,q=H.bW(J.au(U.jz("unplugged").gkN().c,"token"))
 if(q==null)q=""
-s=P.lK("https://192.168.30.26:5001/")
+s=P.lK("https://travel.isnot.dev")
 r=t.bD
 r=V.ag6(P.aw(["Authorization","Bearer "+q],r,r))
 this.a=new D.VI(new E.vG(s),r,P.hz(new H.hr(t.vR),t.Y4))},
